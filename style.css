@@ -1,0 +1,15 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #eaf2ff;
+}
+h2 { color: blue; }
+input, button {
+    padding: 10px;
+    margin: 5px;
+}
+button {
+    background: blue;
+    color: white;
+    border: none;
+}
